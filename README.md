@@ -56,6 +56,6 @@ Self-taught frontend developer. I build web and mobile applications with a focus
 
 ### Contact
 
-[![Portfolio](https://img.shields.io/badge/defi.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://defi-codes.nl)
+[![Portfolio](https://img.shields.io/badge/defi.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://deficodes.nl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/denys-bilyi-086462262/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:defi.codes@gmail.com)
