@@ -39,7 +39,7 @@ Self-taught frontend developer. I build web and mobile applications with a focus
 | Project | Description | Stack |
 |---|---|---|
 | [**Movflix**](https://github.com/definitelyDefi/movflix) | Movie discovery app with search and filtering | React, TypeScript, TMDB API |
-| [**Music Space**](https://github.com/definitelyDefi/music-space) | Radio map with live stream metadata | React, Vite, Leaflet, ICY |
+| [**Music Space**](https://github.com/definitelyDefi/music-space) | Music recommendations & Radio  | React, Vite, Leaflet, ICY |
 | [**Soreni**](https://github.com/definitelyDefi/soreni-gw2) | Guild Wars 2 companion app | React Native, GW2 API |
 
 
