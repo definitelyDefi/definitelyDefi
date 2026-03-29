@@ -45,11 +45,12 @@ Self-taught frontend developer. I build web and mobile applications with a focus
 
 ---
 
-### GitHub Stats
+### Quote
  
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
+ 
 ---
 
 ### Contact
