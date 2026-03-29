@@ -44,13 +44,12 @@ Self-taught frontend developer. I build web and mobile applications with a focus
 
 
 ---
-
 ### Quote
- 
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="quote.svg" alt="Dev quote" />
 </div>
- 
+
 ---
 
 ### Contact
