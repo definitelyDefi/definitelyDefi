@@ -46,12 +46,10 @@ Self-taught frontend developer. I build web and mobile applications with a focus
 ---
 
 ### GitHub Stats
-
+ 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=definitelyDefi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=definitelyDefi&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
-
 ---
 
 ### Contact
