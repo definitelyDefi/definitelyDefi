@@ -10,7 +10,7 @@
 
 ### Hi, I'm Denys 👋
 
-Self-taught frontend developer. I build web and mobile applications with a focus on clean code and good user experience. Currently looking for junior/internship opportunities in the Netherlands.
+Self-taught Full-Stack developer. I build web and mobile applications with a focus on clean code and good user experience. Currently looking for junior/middle opportunities in the Netherlands.
 
 ---
 
